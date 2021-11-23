@@ -1,0 +1,36 @@
+/*grid-template-columns: repeat(2, 350px);}*/
+
+body{
+    background-color: #007065;
+}
+.tri{
+    width: 0px;
+    height: 0px;
+   /*background-color:red;*/
+    /*border-top: 60px solid blue;*/
+    border-right: 60px solid transparent;
+    border-bottom: 60px solid #ffeecf;
+    border-left: 60px solid transparent;
+}
+
+.tri2{
+    width: 0px;
+    height: 0px;
+    margin-top: 0px;
+   /*background-color:red;*/
+    /*border-top: 60px solid blue;*/
+    border-right: 60px solid transparent;
+    border-bottom: 60px solid #f5c181;
+    border-left: 60px solid transparent;
+}
+
+.tri3{
+    width: 0px;
+    height: 0px;
+    margin-top: 5px;
+   /*background-color:red;*/
+    /*border-top: 60px solid blue;*/
+    border-right: 60px solid transparent;
+    border-bottom: 60px solid #00a79d;
+    border-left: 60px solid transparent;
+}
